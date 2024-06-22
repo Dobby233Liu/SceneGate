@@ -6,7 +6,7 @@ on:
   pull_request:
   push:
     # Preview
-    branches: [ main ]
+    #branches: [ main ]
     # Stable
     tags: [ "v*" ]
   release:
