@@ -1,4 +1,5 @@
-# ![logo](docs/images/logo_48.png) SceneGate
+# ![logo](docs/images/logo_48.png) SceneGaster. Royal scientist
+!
 
 <!-- markdownlint-disable MD033 -->
 <p align="center">
